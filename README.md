@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Embedded Software Engineer from Poland. <br>I have Bachelor of Engineering degree in **Automatics and Robotics**, currently doing Master's degree in **Electronic and Embedded Systems**.</p>
+<p align="left">I'm a <strong>Embedded Software Engineer</strong> from Poland. <br>I have Bachelor of Engineering degree in <strong>Automatics and Robotics</strong>, currently doing Master's degree in <strong>Electronic and Embedded Systems</strong>.</p>
 
 ###
 
