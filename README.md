@@ -9,7 +9,9 @@
 <p align="left">
 - Programming bare metal microcontrolers, using RTOS or linux core systems. <br>
 - Experience with Hardware like: STM32, ESP32, Raspberry pi, Atmega, Attiny and other custom or less common devices. <br>
-- Good electronic skills, have done projects including full PCB design, assembly and start-up configuration of HW. (Altium, Eagle)
+- Good electronic skills, have done projects including full PCB design (Altium, Eagle), assembly and start-up configuration of HW.</p>
+
+<p align="left">Unfortunately most of my projects can not be pulbic 😞.</p>
 
 ###
 
